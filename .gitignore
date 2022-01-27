@@ -6,3 +6,4 @@ final_model/model_weights.h5
 final_model/test.ipynb
 final_model/sample_figures.py
 final_model/TFRecords.py
+src/__pycache__
