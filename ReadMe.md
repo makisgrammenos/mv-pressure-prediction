@@ -9,7 +9,15 @@ In this project, we  make use of Deep Neural Networks to create a model that pre
 
 ## Data
 
-To train and test the model we used artificial data from kaggle which can be found [here](https://www.kaggle.com/competitions/ventilator-pressure-prediction)
+To train and test the model we used artificial data from kaggle's Google Brain competition  which can be found [here](https://www.kaggle.com/competitions/ventilator-pressure-prediction).
 
 
 
+
+## Test the model
+
+To train your own model from scratch clone this repository and run ```train.py``` which can be found in ``src`` folder.
+
+---
+
+### This repository is part of an upcoming research paper and there will more update on the future
