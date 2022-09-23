@@ -13,7 +13,7 @@ import tensorboard
 from preprocessing import prepare_data
 from model import Model
 
-data = pd.read_csv("train.csv") # loading training data
+data = pd.read_csv("../data/train.csv") # loading training data
 
 
 train_x,train_y = prepare_data(data.copy()) # check preprocessing.py for details
