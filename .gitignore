@@ -7,3 +7,4 @@ final_model/test.ipynb
 final_model/sample_figures.py
 final_model/TFRecords.py
 src/__pycache__
+src/fit
