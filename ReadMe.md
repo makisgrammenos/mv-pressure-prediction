@@ -20,4 +20,4 @@ To train your own model from scratch clone this repository and run ```train.py``
 
 ---
 
-### This repository is part of an upcoming research paper and there will more update on the future
+### This repository is part of an upcoming research paper and there will more updates on the future
