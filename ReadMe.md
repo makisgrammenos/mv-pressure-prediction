@@ -6,6 +6,8 @@ Mechanical ventilation (MV) is one of the most important life-support systems th
 
 In this project, we  make use of Deep Neural Networks to create a model that predicts the correct pressure to be applied on patient's lungs during a breath cycle (inhalation - exhalation). The model takes into account structual factors of the patient's lungs in order to make a prediction.
 
+You can read the paper about this project [here](https://link.springer.com/chapter/10.1007/978-3-031-31982-2_3).
+
 
 ## Data
 
@@ -20,4 +22,3 @@ To train your own model from scratch clone this repository and run ```train.py``
 
 ---
 
-### This repository is part of an upcoming research paper and there will more updates on the future
